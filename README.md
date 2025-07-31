@@ -9,10 +9,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chouhann&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=chouhann&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+-->
 ![](https://nirzak-streak-stats.vercel.app/?user=chouhann&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chouhann&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=chouhann&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=chouhann&icon=0&color=0)](https://visitcount.itsvg.in)
 
